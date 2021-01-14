@@ -1,0 +1,7 @@
+Instructions to run.
+1) Change the path of stopwords and tarin_val_test_indices pickle to appropriate path
+2) Load the stop words and train,val,test indices
+3)Change the name of output generating csv to avoid overwriting the existing csv in the path
+4)Run the .py file
+5) Reading through script is similar to reading through a python notebook(.py converted from .ipynb)
+ 
